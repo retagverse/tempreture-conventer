@@ -33,5 +33,4 @@ Result: 77.00°F
 - Mathematical Calculations
 - Output Formatting
 
-## Author
-Retag Mohamed
+
